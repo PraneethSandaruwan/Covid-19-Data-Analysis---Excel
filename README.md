@@ -12,8 +12,6 @@ Data cleaning
 Pivot tables
 Creating dashboard
 
-# Data Collection
-Data were collected from kaggle. Data link can be given upon a request.
+# Data Credits
+Data were collected from kaggle. We gratefully acknowledge their work.
 
-# Project File
-The project file can be given upon a request.
