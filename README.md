@@ -8,6 +8,12 @@ This is a covid 19 data analysis project in Excel
 4. Total status by 4/29/2020
 
 # Insights & Findings
+Total Deaths is 5.19% compare to the total confirmed by 04/29/2020
+Total Recovered is 22.14% compare to the total confirmed by 04/29/2020
+By 04/29/2020, the highest number of confirmed cases was recorded in the UK.
+By 04/29/2020, the highest number of deaths cases was recorded in the US.
+By 04/29/2020, the highest number of recovered cases was recorded in the Iran.
+
 
 # Skills
 Data cleaning
